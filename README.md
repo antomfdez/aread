@@ -8,4 +8,7 @@ Minimal assembly_x86_64-linux program to print an entire file to the terminal.
 sudo make build install clean
 ```
 
-### Usage: ```aread filename```
+### Usage: 
+```bash
+aread filename
+```
